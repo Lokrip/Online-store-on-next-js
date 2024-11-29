@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Home",
+    "link": "index.html",
+    "dropdown": false
+  },
+  {
+    "label": "Men",
+    "link": "shop.html",
+    "dropdown": true,
+    "items": [
+      { "label": "Men Item 1", "link": "shop.html" },
+      { "label": "Men Item 2", "link": "shop.html" },
+      { "label": "Men Item 3", "link": "shop.html" }
+    ]
+  },
+  {
+    "label": "Women",
+    "link": "shop.html",
+    "dropdown": true,
+    "items": [
+      { "label": "Women Item 1", "link": "shop.html" },
+      { "label": "Women Item 2", "link": "shop.html" },
+      { "label": "Women Item 3", "link": "shop.html" }
+    ]
+  },
+  {
+    "label": "Shop",
+    "link": "/shop/",
+    "dropdown": false
+  },
+  {
+    "label": "Create",
+    "link": "/ls/add/",
+    "dropdown": false
+  },
+  {
+    "label": "404 page",
+    "link": "404.html",
+    "dropdown": false
+  },
+  {
+    "label": "Checkout",
+    "link": "checkout.html",
+    "dropdown": false
+  }
+]

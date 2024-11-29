@@ -1,0 +1,1 @@
+export type MethodsRequest = 'GET' | 'POST' | 'PUT' | 'PATCH' | 'DELETE'
